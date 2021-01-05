@@ -7,7 +7,7 @@ VERSION=88.4324.3.0
 ## このリポジトリ的にメンテナンス番号をふるときは ${VERSION}.1 などとする
 RELEASE_VERSION=${VERSION}
 
-AAR_URL=https://github.com/shiguredo/shiguredo-webrtc-android/releases/download/${VERSION}/libwebrtc.aar
+AAR_URL=https://github.com/enm10k/shiguredo-webrtc-android/releases/download/${VERSION}/libwebrtc.aar
 
 echo VERSION=${VERSION}
 echo RELEASE_VERSION=${RELEASE_VERSION}
